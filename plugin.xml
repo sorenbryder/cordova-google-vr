@@ -19,7 +19,7 @@
     <header-file src="src/ios/GoogleVR.h" />
     <source-file src="src/ios/GoogleVR.m" />
 
-    <framework src="GVRSDK" type="podspec" spec="~> 1.40.0" />
+    <framework src="GVRSDK" type="podspec" spec="~> 1.60.0" />
 
   </platform>
 
