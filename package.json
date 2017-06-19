@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sorenbryder/cordova-google-vr.git"
+    "url": "git+https://github.com/sorenbryder/cordova-plugin-google-vr.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -19,7 +19,7 @@
   "author": "Søren Bryder Nielsen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sorenbryder/cordova-google-vr/issues"
+    "url": "https://github.com/sorenbryder/cordova-plugin-google-vr/issues"
   },
-  "homepage": "https://github.com/sorenbryder/cordova-google-vr#readme"
+  "homepage": "https://github.com/sorenbryder/cordova-plugin-google-vr#readme"
 }
