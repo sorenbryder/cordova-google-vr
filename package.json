@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-google-vr",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "cordova-google-vr",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorenbryder/cordova-google-vr.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Søren Bryder Nielsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sorenbryder/cordova-google-vr/issues"
+  },
+  "homepage": "https://github.com/sorenbryder/cordova-google-vr#readme"
+}
